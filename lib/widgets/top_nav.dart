@@ -74,7 +74,7 @@ AppBar topNavigationBar(BuildContext context, GlobalKey<ScaffoldState> key) =>
             width: 24,
           ),
           CustomText(
-            text: "Naval Jadhav",
+            text: "Naval",
             color: lightGrey,
           ),
           Container(
